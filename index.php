@@ -23,5 +23,4 @@ $mahasiswaTI->cetak();
 $baskara->cetak();
 $kendrick->cetak();
 
-
 ?>
