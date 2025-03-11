@@ -3,7 +3,7 @@ class Mahasiswa{
     protected $nim, $nama, $tgl_lahir, $umur, $status;
 
     public function __construct(){
-        $this->status = "AKtif";
+        $this->status = "Aktif";
     }
 
     public function setData($nim, $nama, $tgl_lahir){
